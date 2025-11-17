@@ -1,0 +1,88 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production builds
+build/
+dist/
+
+# Environment variables
+.env
+backend/.env
+
+# Upload files
+uploads/
+backend/uploads/
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+
+# Backup directories
+Backup*/
+backup*/
+
+# Database files
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+backend/database.sqlite*
+
+# All environment files and credentials
+.env*
+backend/.env*
+EMAILINFO.md
+cookies.txt
+
+# User data
+backend/whitelist.json
+backend/email-queue.json
+backend/failed-emails/
+
+# SSL certificates and private keys
+backend/ssl/
+*.key
+*.crt
+*.pem
+ssl/
+
+# Build artifacts
+frontend/build/
+backend/static/
+
+# Windows system files
+NUL
+nul
+desktop.ini
+
+# Batch files (contain hardcoded paths)
+*.bat
+
+# IDE/Editor files
+.claude/
+*.local.json
