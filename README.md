@@ -2,6 +2,8 @@
 
 A minimalistic file sharing web application with a sci-fi aesthetic, built for personal use on Windows 11 server.
 
+Built for personal use and to showcase a prompt engineered solution. Not intended or built for easy use if cloned, but you are welcome to.
+
 ## Features
 
 - **Simple Upload**: Drag and drop or click to upload files
