@@ -86,3 +86,6 @@ desktop.ini
 # IDE/Editor files
 .claude/
 *.local.json
+
+# Screenshots
+screenshots/
