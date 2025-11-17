@@ -4,6 +4,9 @@ A minimalistic file sharing web application with a sci-fi aesthetic, built for p
 
 Built for personal use and to showcase a prompt engineered solution. Not intended or built for easy use if cloned, but you are welcome to.
 
+<img width="1155" height="1271" alt="image" src="https://github.com/user-attachments/assets/8227b2b6-8730-437d-8065-3ac293b8744f" />
+
+
 ## Features
 
 - **Simple Upload**: Drag and drop or click to upload files
